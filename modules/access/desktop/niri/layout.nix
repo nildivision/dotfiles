@@ -2,7 +2,7 @@
   flake.modules.homeManager.niri-layout = {
     programs.niri.settings.layout = {
       background-color = "#000000";
-      gaps = 4;
+      gaps = 8;
       center-focused-column = "never";
       preset-column-widths = [
         { proportion = 0.33333; }
